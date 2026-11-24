@@ -91,7 +91,7 @@ I also explore specialized AI agents for project management, code auditing, feat
 | --- | --- | --- |
 | [OfferHub](https://github.com/AlyssonHendryk/OfferHub) | Offer automation platform with Telegram integration, administrative dashboard, approval workflows and intelligent filtering. | In development |
 | [Modus Destinatio](https://github.com/AlyssonHendryk/Modus-Destinatio) | Full stack inventory, order and business management system using Next.js, FastAPI and Supabase. Academic capstone project. | Academic project |
-| AureinRPG | Modular tabletop RPG platform designed around customizable rules, campaigns, characters and maps. | Early development |
+| Arcanexus | Modular tabletop RPG platform designed around customizable rules, campaigns, characters and maps. | Early development |
 | [Hub School](https://github.com/AlyssonHendryk/hub-school) | Collaborative academic project featuring a REST API, JWT authentication and Supabase integration. | Completed |
 | Pokédex | React and TypeScript application with search, filters, pagination and Pokémon details. | Learning project |
 
